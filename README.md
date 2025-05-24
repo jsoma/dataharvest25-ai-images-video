@@ -10,6 +10,8 @@ Knight Chair in Data Journalism, Columbia University
 
 [badpdfs.com](https://badpdfs.com/) / [jsoma.github.io/natural-pdf/](https://jsoma.github.io/natural-pdf/)
 
+If you're interested in *scraping* TikTok, that's a different game! You might be interested in [this passive scraping session](https://github.com/jsoma/nicar25-passive-scraping).
+
 ## Notebook links
 
 Open up the notebooks on Google Colab! You can press the play buttons to make them work.
